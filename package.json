@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-siri-shortcuts",
-  "version": "0.1.25",
+  "version": "0.1.26",
   "description": "MCP for calling Siri Shorcuts from LLMs",
   "main": "src/index.ts",
   "scripts": {
